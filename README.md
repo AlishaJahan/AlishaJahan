@@ -9,10 +9,10 @@
 
 ## 🌙 About Me  
 
-💻 Full Stack Developer with strong backend focus  
-⚙️ Passionate about scalable systems & clean architecture  
-☁️ Working with Cloud & DevOps tools  
-🚀 Love building production-ready applications  
+💻 Full Stack Developer with strong backend focus.  
+⚙️ Passionate about scalable systems & clean architecture.  
+☁️ Working with Cloud & DevOps tools.  
+🚀 Love building production-ready applications.  
 
 ---
 
